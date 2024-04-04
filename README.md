@@ -1,3 +1,4 @@
+# Date :
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -61,3 +62,4 @@ plt.legend(['Regression Line','Data points'])
 ![image](https://github.com/yamunadass/Correlation_Regression/assets/138971172/69656998-15ba-4f29-a65d-aa542c8a59b1)
 
 # Output 
+ The given Output has been verified.
